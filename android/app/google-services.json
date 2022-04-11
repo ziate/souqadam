@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874775455524",
+    "project_id": "souqadamshope",
+    "storage_bucket": "souqadamshope.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874775455524:android:0186deaffad14d40f9f5b1",
+        "android_client_info": {
+          "package_name": "souq.adam.shope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874775455524-b7t98l4i6kpkjlmmhamksf628u3hua4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4jnfkEqSCOer79kpkrAAFpDQvZRZCDcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874775455524-b7t98l4i6kpkjlmmhamksf628u3hua4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
